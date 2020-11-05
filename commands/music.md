@@ -160,3 +160,14 @@ This command summons the bot to the user's voice channel
 !summon
 ```
 
+## Filters
+
+This command applies a filter to music playback
+
+_Aliases: 'filter', 'filters'_
+
+```text
+!filters <filter name>
+!filter <filter name>
+```
+
