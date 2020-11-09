@@ -87,6 +87,16 @@ _Aliases: 'prev', 'previous'_
 !prev <no. of songs>
 ```
 
+## Remove
+
+This command removes the song from the queue
+
+_Note: `!remove all` will remove all songs from queue_
+
+```text
+!remove <pos. in queue>
+```
+
 ## Queue
 
 This command displays the current playback queue
