@@ -111,3 +111,14 @@ _Note: An argument **'list'** can be passed to view all the different soundboard
 !soundboard list
 ```
 
+## Restrictmusic
+
+This command restricts the music commands to certain text channels
+
+```text
+!restrictmusic add <#channel>    #To add a new channel
+!restrictmusic remove <#channel> #To remove a channel
+!restrictmusic enable            #To enable music restrictions
+!restrictmusic disable           #To disable music restrictions
+```
+

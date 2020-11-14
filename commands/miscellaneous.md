@@ -85,3 +85,24 @@ _Note: This ping is the bot's ping and not the user's ping. Also it dosen't sign
 !ping
 ```
 
+## Animoji
+
+This command lets non-nitro users send animated emojis from the server's emoji list
+
+_Note: You can use this command within text you send by using `--animoji <emoji name/id>`_ 
+
+```text
+!animoji <emoji name/id>
+```
+
+## Clearhooks
+
+This command clears webhooks of the channel this command is run in
+
+_Aliases: 'whclear', 'clearhooks'_
+
+```text
+!clearhooks
+!whclear
+```
+
