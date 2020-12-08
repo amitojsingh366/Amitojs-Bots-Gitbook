@@ -14,7 +14,8 @@
 
 * [Moderation](commands/moderation.md)
 * [Music](commands/music.md)
-* [Miscellaneous](commands/miscellaneous.md)
+* [Image](commands/image.md)
 * [Fun](commands/fun.md)
+* [Miscellaneous](commands/miscellaneous.md)
 * [Setup](commands/setup.md)
 

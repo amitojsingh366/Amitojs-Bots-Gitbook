@@ -48,6 +48,30 @@ _Aliases: 'tod', 'truthordare'_
 !tod
 ```
 
+## TronaldDump
+
+This command sends a random Donald Trump quote
+
+```text
+!tronalddump
+```
+
+## Kanye
+
+This command sends a random Kanye West Quote
+
+```text
+!kanye
+```
+
+## ChuckNorris
+
+This command sends a random Chuck Norris Joke
+
+```text
+!chucknorris
+```
+
 ## Aande
 
 aande.
